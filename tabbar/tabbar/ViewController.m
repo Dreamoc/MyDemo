@@ -17,6 +17,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
+=======
+    NSLog(@"123");
+    NSLog(@"321");
+    NSLog(@"4");
+    NSLog(@"5");
+>>>>>>> master_new
     [self createView];
     // Do any additional setup after loading the view, typically from a nib.
 }
